@@ -26,7 +26,7 @@ Desenvolver um sistema de quiz utilizando conceitos de Programação Orientada a
 
 ---
 
-## Conceitos de OOP utilizados
+## Conceitos utilizados
 
 ### Herança
 
@@ -62,7 +62,7 @@ Qual destas opções é uma linguagem de programação?
 4 - CSS
 ```
 
-# Parte 2 — Fontes de referência sobre OOP
+# Parte 2 — Fontes
 
 ## Fonte em Português
 
